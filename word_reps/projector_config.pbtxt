@@ -1,0 +1,4 @@
+embeddings {
+  tensor_name: "embedding_1/embeddings:0"
+  metadata_path: "word_metadata.csv"
+}
