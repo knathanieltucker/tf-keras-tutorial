@@ -34,7 +34,7 @@ And that should take you to a working notebook. At this point I would suggest yo
 
 ## Local Setup
 
-Follow guide [here](http://python-guide-pt-br.readthedocs.io/en/latest/dev/virtualenvs/#virtualenv) to set up basic virtual env. After, run:
+Follow guide [here](http://docs.python-guide.org/en/latest/dev/virtualenvs/) to set up basic virtual env. After, run:
 
 `pip install -r requirements.txt`
 
